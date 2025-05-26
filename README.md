@@ -17,8 +17,8 @@ This is a sleek, responsive **Contact Us** form built using pure HTML and CSS. T
 
 ## 🚀 Live Demo
 
-[Click here to try it](https://your-username.github.io/contact-us-form/)  
-> *(Replace this link with your actual GitHub Pages or deployed URL)*
+[Click here to try it] --> (https://saranya-venk.github.io/contact-form/)  
+
 
 ---
 
@@ -60,10 +60,6 @@ This is a sleek, responsive **Contact Us** form built using pure HTML and CSS. T
 
 **img 3**
 ![Image](https://github.com/user-attachments/assets/c9a3778e-6d32-4a40-9370-e8cf1ca7227c)
-
-
-![Contact Us Form Preview](screenshot.png)
-
 
 ---
 
