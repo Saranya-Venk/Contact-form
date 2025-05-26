@@ -80,9 +80,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 > Made with ❤️ by saranya-venk
 
-```
-````
-
 ### ✅ To Do:
 - Upload a `screenshot.png` of the form for the preview section.
 - Customize the Formspree action URL.
