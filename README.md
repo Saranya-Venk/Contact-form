@@ -52,9 +52,18 @@ This is a sleek, responsive **Contact Us** form built using pure HTML and CSS. T
 
 ## 🖼️ Screenshot
 
+**img 1**
+![Image](https://github.com/user-attachments/assets/2388dc80-7f7a-491f-88be-655c8541f730)
+
+**img 2**
+![Image](https://github.com/user-attachments/assets/d97ef2ce-ac82-40f8-8bbf-60a6e714eb7a)
+
+**img 3**
+![Image](https://github.com/user-attachments/assets/c9a3778e-6d32-4a40-9370-e8cf1ca7227c)
+
+
 ![Contact Us Form Preview](screenshot.png)
 
-> *(Add a real screenshot of the form and save it as `screenshot.png` in your repo)*
 
 ---
 
