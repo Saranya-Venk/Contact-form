@@ -17,7 +17,7 @@ This is a sleek, responsive **Contact Us** form built using pure HTML and CSS. T
 
 ## 🚀 Live Demo
 
-[Click here to try it] --> (https://saranya-venk.github.io/contact-form/)  
+**Click here to try it -->** (https://saranya-venk.github.io/contact-form/)  
 
 
 ---
@@ -62,6 +62,7 @@ This is a sleek, responsive **Contact Us** form built using pure HTML and CSS. T
 ![Image](https://github.com/user-attachments/assets/c9a3778e-6d32-4a40-9370-e8cf1ca7227c)
 
 ---
+> Made with ❤️ by saranya-venk
 
 ## 🧱 Built With
 
@@ -75,14 +76,3 @@ This is a sleek, responsive **Contact Us** form built using pure HTML and CSS. T
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-> Made with ❤️ by saranya-venk
-
-### ✅ To Do:
-- Upload a `screenshot.png` of the form for the preview section.
-- Customize the Formspree action URL.
-- Optionally, deploy it via GitHub Pages and update the Live Demo link.
-
-
